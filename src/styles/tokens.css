@@ -1,0 +1,79 @@
+/* Nyumba Nest design tokens. Single source of truth. */
+:root {
+  /* Brand and action */
+  --color-brand: #1F4D3F;
+  --color-brand-hover: #173A30;
+  --color-brand-deep: #123026;
+  --color-action: #B4530A;
+  --color-action-hover: #8F4107;
+  --color-action-pressed: #6F3305;
+  /* Surfaces */
+  --color-surface: #F4F5F2;
+  --color-surface-raised: #FFFFFF;
+  --color-surface-tint: #E6ECE7;
+  /* Text */
+  --color-text: #13241F;
+  --color-text-secondary: #3F4F4A;
+  --color-text-muted: #5B6A65;
+  --color-text-on-dark: #F4F5F2;
+  --color-text-on-dark-secondary: #D9E4DD;
+  --color-text-on-dark-muted: #BFD6CB;
+  /* Lines and focus */
+  --color-border: #D5DAD4;
+  --color-border-control: #7A8A84;
+  --color-focus: #0B5FA5;
+  --color-focus-on-dark: #9CCBF2;
+  /* Status (always paired with an icon and a text label) */
+  --color-success: #1E6B3A;  --color-success-bg: #E8F4EC;
+  --color-warning: #8A5A00;  --color-warning-bg: #FFF4D6;
+  --color-error: #B3261E;    --color-error-bg: #FDECEA;
+  --color-info: #0B5FA5;     --color-info-bg: #E8F1FA;
+
+  /* Type */
+  --font-display: "Bricolage Grotesque Variable", "Bricolage Grotesque", system-ui, sans-serif;
+  --font-body: "Instrument Sans Variable", "Instrument Sans", system-ui, sans-serif;
+
+  /* Space */
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-5: 24px;
+  --space-6: 32px; --space-7: 48px; --space-8: 64px; --space-9: 96px;
+
+  /* Shape and depth */
+  --radius-sm: 4px; --radius-md: 8px; --radius-lg: 12px; --radius-sheet: 16px;
+  --shadow-1: 0 1px 2px rgba(19, 36, 31, .08);
+  --shadow-2: 0 8px 24px rgba(19, 36, 31, .14);
+
+  /* Motion */
+  --motion-fast: 120ms; --motion-base: 200ms; --ease: cubic-bezier(.2, 0, 0, 1);
+
+  /* Layout */
+  --container: 1200px; --gutter: 16px; --control-height: 48px; --target-min: 44px;
+}
+@media (min-width: 768px)  { :root { --gutter: 24px; } }
+@media (min-width: 1024px) { :root { --gutter: 32px; } }
+
+body { font: 400 16px/24px var(--font-body); color: var(--color-text); background: var(--color-surface); }
+
+/* Type styles (mobile sizes first) */
+.text-display { font: 700 40px/44px var(--font-display); letter-spacing: -.02em; }
+.text-page    { font: 700 32px/36px var(--font-display); letter-spacing: -.02em; }
+.text-section { font: 700 28px/34px var(--font-display); letter-spacing: -.01em; }
+.text-card    { font: 700 20px/26px var(--font-display); letter-spacing: -.01em; }
+.text-sub     { font: 500 18px/26px var(--font-body); }
+.text-lead    { font: 400 18px/28px var(--font-body); }
+.text-small   { font: 400 14px/20px var(--font-body); }
+.text-caption { font: 400 13px/18px var(--font-body); }
+.text-label   { font: 600 13px/16px var(--font-body); letter-spacing: .02em; }
+.text-button  { font: 600 16px/20px var(--font-body); letter-spacing: .02em; }
+.text-price   { font: 600 24px/28px var(--font-body); font-variant-numeric: tabular-nums; }
+.text-number  { font: 600 20px/24px var(--font-body); font-variant-numeric: tabular-nums; }
+@media (min-width: 768px) {
+  .text-display { font-size: 56px; line-height: 60px; }
+  .text-page    { font-size: 40px; line-height: 44px; }
+}
+
+/* Focus, reduced motion */
+:focus-visible { outline: 3px solid var(--color-focus); outline-offset: 2px; }
+.on-dark :focus-visible { outline-color: var(--color-focus-on-dark); }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}

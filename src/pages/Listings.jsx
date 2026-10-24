@@ -130,7 +130,7 @@ export default function Listings() {
         </>
       )}
 
-      <FilterSheet open={sheet} onClose={() => setSheet(false)} f={f} properties={properties.filter((p) => p.transaction === (f.type === 'buy' ? 'sale' : 'rent') || true)} onApply={(d) => update({ type: d.type, q: d.q.trim(), min: d.min, max: d.max, beds: d.beds, ptype: d.ptype, amenities: d.amenities })} />
+      <FilterSheet open={sheet} onClose={() => setSheet(false)} f={f} properties={properties} onApply={(d) => update({ type: d.type, q: d.q.trim(), min: d.min, max: d.max, beds: d.beds, ptype: d.ptype, amenities: d.amenities })} />
     </div>
   )
 }

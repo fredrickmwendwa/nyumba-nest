@@ -16,11 +16,11 @@ function Hero({ areas, spotlight }) {
   return (
     <section className="hero" aria-labelledby="hero-title">
       <div className="container hero__grid">
-        <div className="hero__copy">
+        <div className="hero__text">
           <h1 id="hero-title" className="text-display">Find the door you want to open.</h1>
           <p className="text-lead hero__lead">Search rentals and homes for sale across Kilimani, Westlands, Ruaka and more. Check the monthly cost, save what you like, then ask to see it.</p>
-          <SearchForm areas={areas} />
         </div>
+        <div className="hero__search"><SearchForm areas={areas} /></div>
         <div className="hero__art">
           <figure className="arch">
             <div className="arch__frame" />
