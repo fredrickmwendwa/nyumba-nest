@@ -1,0 +1,1768 @@
+[
+  {
+    "id": "nn-001",
+    "slug": "two-bedroom-apartment-kilimani",
+    "title": "Two bedroom apartment, Kilimani",
+    "summary": "Two bedroom apartment to rent in Kilimani.",
+    "description": [
+      "A bright corner apartment on the fourth floor, a short walk from Yaya Centre. The open living and dining area leads to a balcony, and both bedrooms have fitted wardrobes.",
+      "The deposit is KSh 170,000. A service charge of KSh 6,000 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 85000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floorArea": {
+      "value": 96,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Kilimani",
+      "description": "Near Yaya Centre",
+      "coordinates": {
+        "lat": -1.29,
+        "lng": 36.785
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/balcony.svg",
+        "alt": "Balcony of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom apartment, kilimani (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "backup-generator",
+      "security",
+      "balcony",
+      "internet"
+    ],
+    "featured": true,
+    "listedAt": "2026-09-04",
+    "isDemo": true,
+    "deposit": 170000,
+    "serviceCharge": 6000
+  },
+  {
+    "id": "nn-002",
+    "slug": "three-bedroom-maisonette-with-a-small-garden-ruaka",
+    "title": "Three bedroom maisonette with a small garden, Ruaka",
+    "summary": "Three bedroom maisonette for sale in Ruaka.",
+    "description": [
+      "A corner maisonette in a small gated development, with a fenced garden at the back and a separate study on the ground floor.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. The listing states a borehole water supply."
+    ],
+    "transaction": "sale",
+    "propertyType": "maisonette",
+    "price": {
+      "amount": 14500000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "floorArea": {
+      "value": 180,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Ruaka",
+      "description": "Off Ruaka Road",
+      "coordinates": {
+        "lat": -1.206,
+        "lng": 36.775
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "borehole",
+      "backup-generator"
+    ],
+    "featured": true,
+    "listedAt": "2026-08-07",
+    "isDemo": true
+  },
+  {
+    "id": "nn-003",
+    "slug": "studio-near-the-mombasa-road-corridor-south-b",
+    "title": "Studio near the Mombasa Road corridor, South B",
+    "summary": "Studio studio to rent in South B.",
+    "description": [
+      "A compact studio with a sleeping nook, a built-in kitchenette and good daylight. Suits one person who wants to be close to the Mombasa Road corridor.",
+      "The deposit is KSh 28,000."
+    ],
+    "transaction": "rent",
+    "propertyType": "studio",
+    "price": {
+      "amount": 28000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "floorArea": {
+      "value": 32,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "South B",
+      "description": "Near Mombasa Road",
+      "coordinates": {
+        "lat": -1.31,
+        "lng": 36.836
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the studio near the mombasa road corridor, south b (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the studio near the mombasa road corridor, south b (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the studio near the mombasa road corridor, south b (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the studio near the mombasa road corridor, south b (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "security",
+      "internet"
+    ],
+    "featured": false,
+    "listedAt": "2026-07-10",
+    "isDemo": true,
+    "deposit": 28000
+  },
+  {
+    "id": "nn-004",
+    "slug": "three-bedroom-apartment-with-a-study-and-two-parking-bays-westlands",
+    "title": "Three bedroom apartment with a study and two parking bays, Westlands",
+    "summary": "Three bedroom apartment to rent in Westlands.",
+    "description": [
+      "A spacious third-floor apartment with a study alcove, a large kitchen and two allocated parking bays. The building has a lift and a small gym.",
+      "The deposit is KSh 240,000. A service charge of KSh 9,500 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 120000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "floorArea": {
+      "value": 148,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Westlands",
+      "description": "Off Ring Road",
+      "coordinates": {
+        "lat": -1.267,
+        "lng": 36.806
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/balcony.svg",
+        "alt": "Balcony of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "backup-generator",
+      "security",
+      "gym",
+      "balcony",
+      "internet"
+    ],
+    "featured": true,
+    "listedAt": "2026-10-13",
+    "isDemo": true,
+    "deposit": 240000,
+    "serviceCharge": 9500
+  },
+  {
+    "id": "nn-005",
+    "slug": "one-bedroom-apartment-kileleshwa",
+    "title": "One bedroom apartment, Kileleshwa",
+    "summary": "One bedroom apartment to rent in Kileleshwa.",
+    "description": [
+      "A tidy one bedroom apartment on a quiet street, with a separate kitchen and a fitted wardrobe in the bedroom.",
+      "The deposit is KSh 130,000. A service charge of KSh 4,500 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 65000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "floorArea": {
+      "value": 58,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Kileleshwa",
+      "description": "Quiet side street",
+      "coordinates": {
+        "lat": -1.28,
+        "lng": 36.785
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the one bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the one bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the one bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the one bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the one bedroom apartment, kileleshwa (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "security",
+      "internet"
+    ],
+    "featured": false,
+    "listedAt": "2026-09-16",
+    "isDemo": true,
+    "deposit": 130000,
+    "serviceCharge": 4500
+  },
+  {
+    "id": "nn-006",
+    "slug": "two-bedroom-garden-cottage-lavington",
+    "title": "Two bedroom garden cottage, Lavington",
+    "summary": "Two bedroom house to rent in Lavington.",
+    "description": [
+      "A detached cottage in a shared compound, with its own small lawn. The floor area is not stated in the listing.",
+      "The deposit is KSh 190,000. The listing states a borehole water supply."
+    ],
+    "transaction": "rent",
+    "propertyType": "house",
+    "price": {
+      "amount": 95000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floorArea": null,
+    "location": {
+      "area": "Lavington",
+      "description": "Quiet residential lane",
+      "coordinates": null
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the two bedroom garden cottage, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the two bedroom garden cottage, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the two bedroom garden cottage, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom garden cottage, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the two bedroom garden cottage, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the two bedroom garden cottage, lavington (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "borehole"
+    ],
+    "featured": false,
+    "listedAt": "2026-08-19",
+    "isDemo": true,
+    "deposit": 190000
+  },
+  {
+    "id": "nn-007",
+    "slug": "one-bedroom-apartment-with-a-balcony-kilimani",
+    "title": "One bedroom apartment with a balcony, Kilimani",
+    "summary": "One bedroom apartment to rent in Kilimani.",
+    "description": [
+      "A one bedroom apartment with a balcony that catches the morning light, set back from the main road.",
+      "The deposit is KSh 110,000. A service charge of KSh 3,500 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 55000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "floorArea": {
+      "value": 52,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Kilimani",
+      "description": "Argwings Kodhek Road",
+      "coordinates": {
+        "lat": -1.29,
+        "lng": 36.785
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/balcony.svg",
+        "alt": "Balcony of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "balcony",
+      "internet"
+    ],
+    "featured": false,
+    "listedAt": "2026-07-22",
+    "isDemo": true,
+    "deposit": 110000,
+    "serviceCharge": 3500
+  },
+  {
+    "id": "nn-008",
+    "slug": "two-bedroom-apartment-ruaka",
+    "title": "Two bedroom apartment, Ruaka",
+    "summary": "Two bedroom apartment to rent in Ruaka.",
+    "description": [
+      "A second-floor two bedroom apartment in a family-oriented block with a children's play area in the compound.",
+      "The deposit is KSh 96,000. A service charge of KSh 3,000 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 48000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floorArea": {
+      "value": 88,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Ruaka",
+      "description": "Ruaka, Kiambu County",
+      "coordinates": {
+        "lat": -1.206,
+        "lng": 36.775
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the two bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the two bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the two bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the two bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the two bedroom apartment, ruaka (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "backup-generator",
+      "play-area"
+    ],
+    "featured": false,
+    "listedAt": "2026-10-25",
+    "isDemo": true,
+    "deposit": 96000,
+    "serviceCharge": 3000
+  },
+  {
+    "id": "nn-009",
+    "slug": "two-bedroom-apartment-kilimani-2",
+    "title": "Two bedroom apartment, Kilimani",
+    "summary": "Two bedroom apartment for sale in Kilimani.",
+    "description": [
+      "A well-kept apartment on the sixth floor with views over the neighbourhood, in a building with a lift, a gym and a backup generator.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. A service charge of KSh 7,500 a month applies."
+    ],
+    "transaction": "sale",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 9800000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floorArea": {
+      "value": 92,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Kilimani",
+      "description": "Close to Wood Avenue",
+      "coordinates": {
+        "lat": -1.29,
+        "lng": 36.785
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/balcony.svg",
+        "alt": "Balcony of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the two bedroom apartment, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the two bedroom apartment, kilimani (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "backup-generator",
+      "security",
+      "gym"
+    ],
+    "featured": true,
+    "listedAt": "2026-09-01",
+    "isDemo": true,
+    "serviceCharge": 7500
+  },
+  {
+    "id": "nn-010",
+    "slug": "studio-apartment-parklands",
+    "title": "Studio apartment, Parklands",
+    "summary": "Studio studio to rent in Parklands.",
+    "description": [
+      "A modern studio with an open plan living area and a separate bathroom, a short walk from the main road.",
+      "The deposit is KSh 35,000. A service charge of KSh 2,500 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "studio",
+    "price": {
+      "amount": 35000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "floorArea": {
+      "value": 38,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Parklands",
+      "description": "Near Limuru Road",
+      "coordinates": {
+        "lat": -1.262,
+        "lng": 36.818
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the studio apartment, parklands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the studio apartment, parklands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the studio apartment, parklands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the studio apartment, parklands (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "security",
+      "lift",
+      "internet"
+    ],
+    "featured": false,
+    "listedAt": "2026-08-04",
+    "isDemo": true,
+    "deposit": 35000,
+    "serviceCharge": 2500
+  },
+  {
+    "id": "nn-011",
+    "slug": "one-bedroom-apartment-parklands",
+    "title": "One bedroom apartment, Parklands",
+    "summary": "One bedroom apartment for sale in Parklands.",
+    "description": [
+      "A one bedroom apartment suited to a first-time buyer or an investor, in a block with a lift and covered parking.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. A service charge of KSh 5,000 a month applies."
+    ],
+    "transaction": "sale",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 6200000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "floorArea": {
+      "value": 60,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Parklands",
+      "description": "Off Limuru Road",
+      "coordinates": {
+        "lat": -1.262,
+        "lng": 36.818
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the one bedroom apartment, parklands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the one bedroom apartment, parklands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the one bedroom apartment, parklands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the one bedroom apartment, parklands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the one bedroom apartment, parklands (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "security",
+      "backup-generator"
+    ],
+    "featured": false,
+    "listedAt": "2026-07-07",
+    "isDemo": true,
+    "serviceCharge": 5000
+  },
+  {
+    "id": "nn-012",
+    "slug": "three-bedroom-townhouse-syokimau",
+    "title": "Three bedroom townhouse, Syokimau",
+    "summary": "Three bedroom townhouse for sale in Syokimau.",
+    "description": [
+      "A townhouse in a gated cluster, with a small garden, a staff quarter and an open-plan living and dining room.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. The listing states a borehole water supply."
+    ],
+    "transaction": "sale",
+    "propertyType": "townhouse",
+    "price": {
+      "amount": 11900000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "floorArea": {
+      "value": 165,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Syokimau",
+      "description": "Near the railway station",
+      "coordinates": {
+        "lat": -1.36,
+        "lng": 36.945
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the three bedroom townhouse, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the three bedroom townhouse, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the three bedroom townhouse, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom townhouse, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the three bedroom townhouse, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the three bedroom townhouse, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom townhouse, syokimau (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "borehole"
+    ],
+    "featured": true,
+    "listedAt": "2026-10-10",
+    "isDemo": true
+  },
+  {
+    "id": "nn-013",
+    "slug": "four-bedroom-house-on-a-quarter-acre-ruiru",
+    "title": "Four bedroom house on a quarter acre, Ruiru",
+    "summary": "Four bedroom house for sale in Ruiru.",
+    "description": [
+      "A standalone house on a quarter acre plot with a mature garden, a large kitchen and a detached staff quarter.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. The listing states a borehole water supply."
+    ],
+    "transaction": "sale",
+    "propertyType": "house",
+    "price": {
+      "amount": 18500000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floorArea": {
+      "value": 310,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Ruiru",
+      "description": "Kamakis area",
+      "coordinates": {
+        "lat": -1.147,
+        "lng": 36.96
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "borehole",
+      "backup-generator"
+    ],
+    "featured": false,
+    "listedAt": "2026-09-13",
+    "isDemo": true
+  },
+  {
+    "id": "nn-014",
+    "slug": "four-bedroom-townhouse-in-a-gated-community-ngong-road",
+    "title": "Four bedroom townhouse in a gated community, Ngong Road",
+    "summary": "Four bedroom townhouse to rent in Ngong Road.",
+    "description": [
+      "A townhouse in a gated community with shared green space and a children's play area. Every bedroom has its own bathroom.",
+      "The deposit is KSh 360,000. A service charge of KSh 12,000 a month applies. The listing states a borehole water supply."
+    ],
+    "transaction": "rent",
+    "propertyType": "townhouse",
+    "price": {
+      "amount": 180000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floorArea": {
+      "value": 260,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Ngong Road",
+      "description": "Off Ngong Road, near the Karen end",
+      "coordinates": {
+        "lat": -1.3,
+        "lng": 36.77
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "backup-generator",
+      "play-area",
+      "borehole"
+    ],
+    "featured": true,
+    "listedAt": "2026-08-16",
+    "isDemo": true,
+    "deposit": 360000,
+    "serviceCharge": 12000
+  },
+  {
+    "id": "nn-015",
+    "slug": "four-bedroom-townhouse-ngong-road",
+    "title": "Four bedroom townhouse, Ngong Road",
+    "summary": "Four bedroom townhouse for sale in Ngong Road.",
+    "description": [
+      "A corner townhouse with a private garden and a shared swimming pool, built across three floors with a rooftop terrace.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. A service charge of KSh 15,000 a month applies. The listing states a borehole water supply."
+    ],
+    "transaction": "sale",
+    "propertyType": "townhouse",
+    "price": {
+      "amount": 32000000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floorArea": {
+      "value": 290,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Ngong Road",
+      "description": "Off Ngong Road",
+      "coordinates": {
+        "lat": -1.3,
+        "lng": 36.77
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the four bedroom townhouse, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the four bedroom townhouse, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the four bedroom townhouse, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the four bedroom townhouse, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the four bedroom townhouse, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the four bedroom townhouse, ngong road (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/pool.svg",
+        "alt": "Swimming pool of the four bedroom townhouse, ngong road (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "backup-generator",
+      "pool",
+      "borehole"
+    ],
+    "featured": false,
+    "listedAt": "2026-07-19",
+    "isDemo": true,
+    "serviceCharge": 15000
+  },
+  {
+    "id": "nn-016",
+    "slug": "five-bedroom-house-lavington",
+    "title": "Five bedroom house, Lavington",
+    "summary": "Five bedroom house for sale in Lavington.",
+    "description": [
+      "A large family house on a half acre plot, with a swimming pool, a guest wing and a detached staff quarter.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. The listing states a borehole water supply."
+    ],
+    "transaction": "sale",
+    "propertyType": "house",
+    "price": {
+      "amount": 58000000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "floorArea": {
+      "value": 520,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Lavington",
+      "description": "Quiet cul-de-sac",
+      "coordinates": {
+        "lat": -1.277,
+        "lng": 36.768
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the five bedroom house, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the five bedroom house, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the five bedroom house, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the five bedroom house, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the five bedroom house, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the five bedroom house, lavington (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the five bedroom house, lavington (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "pool",
+      "backup-generator",
+      "borehole"
+    ],
+    "featured": false,
+    "listedAt": "2026-10-22",
+    "isDemo": true
+  },
+  {
+    "id": "nn-017",
+    "slug": "studio-apartment-south-c",
+    "title": "Studio apartment, South C",
+    "summary": "Studio studio for sale in South C.",
+    "description": [
+      "An affordable studio for a first purchase or a rental investment. Coordinates are not published for this listing.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. A service charge of KSh 3,000 a month applies."
+    ],
+    "transaction": "sale",
+    "propertyType": "studio",
+    "price": {
+      "amount": 4100000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "floorArea": {
+      "value": 34,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "South C",
+      "description": "Near Mugoya Estate",
+      "coordinates": null
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the studio apartment, south c (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the studio apartment, south c (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the studio apartment, south c (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the studio apartment, south c (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "security",
+      "lift"
+    ],
+    "featured": false,
+    "listedAt": "2026-09-25",
+    "isDemo": true,
+    "serviceCharge": 3000
+  },
+  {
+    "id": "nn-018",
+    "slug": "two-bedroom-apartment-south-b",
+    "title": "Two bedroom apartment, South B",
+    "summary": "Two bedroom apartment for sale in South B.",
+    "description": [
+      "A two bedroom apartment on the third floor with a balcony and two bathrooms, one of them ensuite.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. A service charge of KSh 4,000 a month applies."
+    ],
+    "transaction": "sale",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 7400000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floorArea": {
+      "value": 84,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "South B",
+      "description": "Near Mombasa Road",
+      "coordinates": {
+        "lat": -1.31,
+        "lng": 36.836
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the two bedroom apartment, south b (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the two bedroom apartment, south b (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom apartment, south b (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the two bedroom apartment, south b (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/balcony.svg",
+        "alt": "Balcony of the two bedroom apartment, south b (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the two bedroom apartment, south b (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "backup-generator",
+      "balcony"
+    ],
+    "featured": false,
+    "listedAt": "2026-08-01",
+    "isDemo": true,
+    "serviceCharge": 4000
+  },
+  {
+    "id": "nn-019",
+    "slug": "three-bedroom-house-in-a-quiet-cul-de-sac-kiambu",
+    "title": "Three bedroom house in a quiet cul-de-sac, Kiambu",
+    "summary": "Three bedroom house for sale in Kiambu.",
+    "description": [
+      "A bungalow with a generous garden and a covered patio, in a quiet cul-de-sac on the Kiambu side of town.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. The listing states a borehole water supply."
+    ],
+    "transaction": "sale",
+    "propertyType": "house",
+    "price": {
+      "amount": 13200000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "floorArea": {
+      "value": 200,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Kiambu",
+      "description": "Off Kiambu Road",
+      "coordinates": {
+        "lat": -1.171,
+        "lng": 36.832
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "borehole"
+    ],
+    "featured": false,
+    "listedAt": "2026-07-04",
+    "isDemo": true
+  },
+  {
+    "id": "nn-020",
+    "slug": "two-bedroom-apartment-with-a-study-kilimani",
+    "title": "Two bedroom apartment with a study, Kilimani",
+    "summary": "Two bedroom apartment to rent in Kilimani.",
+    "description": [
+      "A two bedroom apartment with a separate study nook, close to Hurlingham. The living room has large windows facing east.",
+      "The deposit is KSh 156,000. A service charge of KSh 5,500 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 78000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floorArea": {
+      "value": 91,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Kilimani",
+      "description": "Close to Hurlingham",
+      "coordinates": {
+        "lat": -1.29,
+        "lng": 36.785
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the two bedroom apartment with a study, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the two bedroom apartment with a study, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom apartment with a study, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the two bedroom apartment with a study, kilimani (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the two bedroom apartment with a study, kilimani (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "security",
+      "backup-generator"
+    ],
+    "featured": false,
+    "listedAt": "2026-10-07",
+    "isDemo": true,
+    "deposit": 156000,
+    "serviceCharge": 5500
+  },
+  {
+    "id": "nn-021",
+    "slug": "two-bedroom-apartment-kileleshwa",
+    "title": "Two bedroom apartment, Kileleshwa",
+    "summary": "Two bedroom apartment to rent in Kileleshwa.",
+    "description": [
+      "A spacious two bedroom apartment on a high floor, with a balcony off the living room and two parking bays.",
+      "The deposit is KSh 184,000. A service charge of KSh 6,500 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 92000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floorArea": {
+      "value": 102,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Kileleshwa",
+      "description": "Near Rhapta Road",
+      "coordinates": {
+        "lat": -1.28,
+        "lng": 36.785
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the two bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/balcony.svg",
+        "alt": "Balcony of the two bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the two bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the two bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the two bedroom apartment, kileleshwa (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the two bedroom apartment, kileleshwa (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "security",
+      "balcony",
+      "backup-generator"
+    ],
+    "featured": false,
+    "listedAt": "2026-09-10",
+    "isDemo": true,
+    "deposit": 184000,
+    "serviceCharge": 6500
+  },
+  {
+    "id": "nn-022",
+    "slug": "one-bedroom-apartment-westlands",
+    "title": "One bedroom apartment, Westlands",
+    "summary": "One bedroom apartment to rent in Westlands.",
+    "description": [
+      "A one bedroom apartment in a building with a gym, a short walk from the Waiyaki Way bus stops.",
+      "The deposit is KSh 150,000. A service charge of KSh 5,000 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 75000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "floorArea": {
+      "value": 62,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Westlands",
+      "description": "Near Waiyaki Way",
+      "coordinates": {
+        "lat": -1.267,
+        "lng": 36.806
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the one bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the one bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the one bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the one bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the one bedroom apartment, westlands (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "security",
+      "gym",
+      "internet"
+    ],
+    "featured": false,
+    "listedAt": "2026-08-13",
+    "isDemo": true,
+    "deposit": 150000,
+    "serviceCharge": 5000
+  },
+  {
+    "id": "nn-023",
+    "slug": "two-bedroom-apartment-syokimau",
+    "title": "Two bedroom apartment, Syokimau",
+    "summary": "Two bedroom apartment to rent in Syokimau.",
+    "description": [
+      "A ground floor apartment with a small patio, close to Syokimau railway station.",
+      "The deposit is KSh 84,000. A service charge of KSh 2,500 a month applies. The listing states a borehole water supply."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 42000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "floorArea": {
+      "value": 80,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Syokimau",
+      "description": "Near the railway station",
+      "coordinates": {
+        "lat": -1.36,
+        "lng": 36.945
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the two bedroom apartment, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the two bedroom apartment, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the two bedroom apartment, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the two bedroom apartment, syokimau (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the two bedroom apartment, syokimau (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "backup-generator",
+      "borehole"
+    ],
+    "featured": false,
+    "listedAt": "2026-07-16",
+    "isDemo": true,
+    "deposit": 84000,
+    "serviceCharge": 2500
+  },
+  {
+    "id": "nn-024",
+    "slug": "one-bedroom-apartment-ruaka",
+    "title": "One bedroom apartment, Ruaka",
+    "summary": "One bedroom apartment to rent in Ruaka.",
+    "description": [
+      "A compact one bedroom apartment with a fitted kitchen, near the Ruaka bus stage.",
+      "The deposit is KSh 76,000. A service charge of KSh 2,000 a month applies."
+    ],
+    "transaction": "rent",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 38000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "floorArea": {
+      "value": 50,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Ruaka",
+      "description": "Near the Ruaka bus stage",
+      "coordinates": {
+        "lat": -1.206,
+        "lng": 36.775
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the one bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the one bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the one bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the one bedroom apartment, ruaka (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the one bedroom apartment, ruaka (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "security",
+      "parking",
+      "internet"
+    ],
+    "featured": false,
+    "listedAt": "2026-10-19",
+    "isDemo": true,
+    "deposit": 76000,
+    "serviceCharge": 2000
+  },
+  {
+    "id": "nn-025",
+    "slug": "three-bedroom-townhouse-ruiru",
+    "title": "Three bedroom townhouse, Ruiru",
+    "summary": "Three bedroom townhouse to rent in Ruiru.",
+    "description": [
+      "A three bedroom townhouse in a small gated cluster off Thika Road, with a private yard.",
+      "The deposit is KSh 136,000. A service charge of KSh 3,000 a month applies. The listing states a borehole water supply."
+    ],
+    "transaction": "rent",
+    "propertyType": "townhouse",
+    "price": {
+      "amount": 68000,
+      "currency": "KES",
+      "period": "month"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "floorArea": {
+      "value": 150,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Ruiru",
+      "description": "Near Thika Road",
+      "coordinates": {
+        "lat": -1.147,
+        "lng": 36.96
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the three bedroom townhouse, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the three bedroom townhouse, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the three bedroom townhouse, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom townhouse, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the three bedroom townhouse, ruiru (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/garden.svg",
+        "alt": "Garden of the three bedroom townhouse, ruiru (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "security",
+      "garden",
+      "borehole"
+    ],
+    "featured": false,
+    "listedAt": "2026-09-22",
+    "isDemo": true,
+    "deposit": 136000,
+    "serviceCharge": 3000
+  },
+  {
+    "id": "nn-026",
+    "slug": "three-bedroom-apartment-westlands",
+    "title": "Three bedroom apartment, Westlands",
+    "summary": "Three bedroom apartment for sale in Westlands.",
+    "description": [
+      "A modern three bedroom apartment on the ninth floor, with a balcony, a swimming pool and a gym in the building.",
+      "The listing price is the asking price; legal fees, stamp duty and other purchase costs are not included. A service charge of KSh 12,000 a month applies."
+    ],
+    "transaction": "sale",
+    "propertyType": "apartment",
+    "price": {
+      "amount": 19500000,
+      "currency": "KES",
+      "period": null
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "floorArea": {
+      "value": 155,
+      "unit": "sqm"
+    },
+    "location": {
+      "area": "Westlands",
+      "description": "Near Westlands roundabout",
+      "coordinates": {
+        "lat": -1.267,
+        "lng": 36.806
+      }
+    },
+    "images": [
+      {
+        "src": "images/placeholders/living.svg",
+        "alt": "Living area of the three bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/kitchen.svg",
+        "alt": "Kitchen of the three bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bedroom.svg",
+        "alt": "Main bedroom of the three bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/bathroom.svg",
+        "alt": "Bathroom of the three bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/balcony.svg",
+        "alt": "Balcony of the three bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/view.svg",
+        "alt": "View from the property of the three bedroom apartment, westlands (placeholder image)"
+      },
+      {
+        "src": "images/placeholders/exterior.svg",
+        "alt": "Building exterior of the three bedroom apartment, westlands (placeholder image)"
+      }
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "backup-generator",
+      "security",
+      "gym",
+      "pool",
+      "balcony"
+    ],
+    "featured": true,
+    "listedAt": "2026-08-25",
+    "isDemo": true,
+    "serviceCharge": 12000
+  }
+]
