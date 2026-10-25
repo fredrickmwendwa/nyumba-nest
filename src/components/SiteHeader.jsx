@@ -31,9 +31,9 @@ export default function SiteHeader() {
           ))}
         </nav>
         <div className="site-header__actions">
-          <NavLink to="/saved" className="saved-link" aria-label={`Saved homes, ${count} saved`}>
+          <NavLink to="/saved" className="saved-link" aria-label={`Saved ${count}`}>
             <Icon name="heart" size={20} />
-            <span className="saved-link__text">Saved</span>
+            <span className="saved-link__text">Saved</span>{' '}
             <span className="saved-link__count">{count}</span>
           </NavLink>
           <button type="button" className="menu-button" onClick={() => setMenu(true)} aria-haspopup="dialog" aria-expanded={menu}>Menu</button>

@@ -41,6 +41,7 @@ export default function Saved() {
       )}
       {!persistent && <Alert tone="warning"><p>Your browser is blocking storage, so saved homes will be lost when you leave this page.</p></Alert>}
 
+      <h2 className="visually-hidden">Your saved homes</h2>
       {status === 'error' && <ErrorState onRetry={retry} />}
       {status === 'loading' && <ul className="grid" aria-busy="true">{slugs.slice(0, 3).map((s) => <li key={s}><SkeletonCard /></li>)}</ul>}
 

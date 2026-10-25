@@ -77,7 +77,7 @@ export default function Listings() {
       <FilterBar f={f} update={update} drawerCount={drawerCount} onOpenSheet={() => setSheet(true)} />
 
       <div className="listings__tools">
-        <div className="chips" aria-label="Active filters">
+        <div className="chips" role="group" aria-label="Active filters">
           {chips.map((c) => <Chip key={c.key} label={c.label} name={c.name} onRemove={() => removeChip(c)} />)}
           {chips.length > 0 && <Button variant="text" size="sm" onClick={resetAll}>Reset all</Button>}
         </div>
@@ -86,6 +86,7 @@ export default function Listings() {
         </SelectField>
       </div>
 
+      <h2 className="visually-hidden">Results</h2>
       {status === 'error' && <ErrorState onRetry={retry} />}
 
       {status === 'loading' && (
