@@ -65,7 +65,13 @@ export const agency = {
 
 ### Replacing placeholder photographs
 
-Listings are in `public/data/properties.json`. Each listing has an `images` array of `{ src, alt }`. Put real photos in `public/images/` and point `src` at them. Cards use a 4:3 crop, the gallery a 3:2 crop, and the wrapper owns the aspect ratio, so any photo size works without layout changes.
+1. Download photos (for example from Unsplash) and export them as 4:3 JPEGs about 1600 by 1200 px, under 250 KB each.
+2. Save them in `public/images/listings/` named `<kind>-<number>.jpg`, for example `living-1.jpg`, `living-2.jpg`, `kitchen-1.jpg`. Kinds: living, kitchen, bedroom, bathroom, exterior, balcony, garden, view, pool.
+3. Run `npm run images`. It points every listing image at your photos, spreading them so neighbouring listings differ. Kinds with no photos keep their placeholder.
+4. For the home page arch photo, change the `src` in `src/pages/Home.jsx` to one of your files, for example `images/listings/living-1.jpg`.
+5. Record each photographer in `docs/IMAGE_CREDITS.md`.
+
+Cards use a 4:3 crop and the gallery a 3:2 crop. The wrapper owns the aspect ratio, so any photo size works without layout changes.
 
 ### Deployment
 
