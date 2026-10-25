@@ -25,7 +25,7 @@ function Hero({ areas, spotlight }) {
           <figure className="arch">
             <div className="arch__frame" />
             <div className="arch__photo">
-              <img src={url('images/placeholders/living.svg')} alt="Living room seen through an arched frame (placeholder image)" width="1200" height="900" decoding="async" />
+              <img src={url('images/listings/hero.jpg')} alt="Living room with a curved sofa, seen through an arched frame" width="1200" height="900" decoding="async" />
             </div>
           </figure>
           {spotlight && (

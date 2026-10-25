@@ -31,36 +31,36 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/balcony.svg",
-        "alt": "Balcony of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/balcony-1.jpg",
+        "alt": "Balcony, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom apartment, Kilimani"
       }
     ],
     "amenities": [
@@ -109,32 +109,32 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Three bedroom maisonette with a small garden, Ruaka"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Three bedroom maisonette with a small garden, Ruaka"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Three bedroom maisonette with a small garden, Ruaka"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom maisonette with a small garden, Ruaka"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Three bedroom maisonette with a small garden, Ruaka"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Three bedroom maisonette with a small garden, Ruaka"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom maisonette with a small garden, ruaka (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom maisonette with a small garden, Ruaka"
       }
     ],
     "amenities": [
@@ -180,20 +180,20 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the studio near the mombasa road corridor, south b (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Studio near the Mombasa Road corridor, South B"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the studio near the mombasa road corridor, south b (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Studio near the Mombasa Road corridor, South B"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the studio near the mombasa road corridor, south b (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Studio near the Mombasa Road corridor, South B"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the studio near the mombasa road corridor, south b (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Studio near the Mombasa Road corridor, South B"
       }
     ],
     "amenities": [
@@ -237,36 +237,36 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Three bedroom apartment with a study and two parking bays, Westlands"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Three bedroom apartment with a study and two parking bays, Westlands"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom apartment with a study and two parking bays, Westlands"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Three bedroom apartment with a study and two parking bays, Westlands"
       },
       {
-        "src": "images/placeholders/balcony.svg",
-        "alt": "Balcony of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+        "src": "images/listings/balcony-2.jpg",
+        "alt": "Balcony, Three bedroom apartment with a study and two parking bays, Westlands"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Three bedroom apartment with a study and two parking bays, Westlands"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Three bedroom apartment with a study and two parking bays, Westlands"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom apartment with a study and two parking bays, westlands (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom apartment with a study and two parking bays, Westlands"
       }
     ],
     "amenities": [
@@ -316,24 +316,24 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the one bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, One bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the one bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, One bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the one bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, One bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the one bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, One bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the one bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, One bedroom apartment, Kileleshwa"
       }
     ],
     "amenities": [
@@ -374,28 +374,28 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the two bedroom garden cottage, lavington (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Two bedroom garden cottage, Lavington"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the two bedroom garden cottage, lavington (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Two bedroom garden cottage, Lavington"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the two bedroom garden cottage, lavington (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Two bedroom garden cottage, Lavington"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom garden cottage, lavington (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom garden cottage, Lavington"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the two bedroom garden cottage, lavington (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Two bedroom garden cottage, Lavington"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the two bedroom garden cottage, lavington (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Two bedroom garden cottage, Lavington"
       }
     ],
     "amenities": [
@@ -441,28 +441,28 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, One bedroom apartment with a balcony, Kilimani"
       },
       {
-        "src": "images/placeholders/balcony.svg",
-        "alt": "Balcony of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+        "src": "images/listings/balcony-2.jpg",
+        "alt": "Balcony, One bedroom apartment with a balcony, Kilimani"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, One bedroom apartment with a balcony, Kilimani"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, One bedroom apartment with a balcony, Kilimani"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, One bedroom apartment with a balcony, Kilimani"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the one bedroom apartment with a balcony, kilimani (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, One bedroom apartment with a balcony, Kilimani"
       }
     ],
     "amenities": [
@@ -509,28 +509,28 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the two bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Two bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the two bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Two bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the two bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Two bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the two bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Two bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the two bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Two bedroom apartment, Ruaka"
       }
     ],
     "amenities": [
@@ -577,32 +577,32 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/balcony.svg",
-        "alt": "Balcony of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/balcony-1.jpg",
+        "alt": "Balcony, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Two bedroom apartment, Kilimani"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the two bedroom apartment, kilimani (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Two bedroom apartment, Kilimani"
       }
     ],
     "amenities": [
@@ -649,20 +649,20 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the studio apartment, parklands (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Studio apartment, Parklands"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the studio apartment, parklands (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Studio apartment, Parklands"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the studio apartment, parklands (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Studio apartment, Parklands"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the studio apartment, parklands (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Studio apartment, Parklands"
       }
     ],
     "amenities": [
@@ -708,24 +708,24 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the one bedroom apartment, parklands (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, One bedroom apartment, Parklands"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the one bedroom apartment, parklands (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, One bedroom apartment, Parklands"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the one bedroom apartment, parklands (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, One bedroom apartment, Parklands"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the one bedroom apartment, parklands (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, One bedroom apartment, Parklands"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the one bedroom apartment, parklands (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, One bedroom apartment, Parklands"
       }
     ],
     "amenities": [
@@ -771,32 +771,32 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the three bedroom townhouse, syokimau (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Three bedroom townhouse, Syokimau"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the three bedroom townhouse, syokimau (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Three bedroom townhouse, Syokimau"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the three bedroom townhouse, syokimau (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Three bedroom townhouse, Syokimau"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom townhouse, syokimau (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom townhouse, Syokimau"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the three bedroom townhouse, syokimau (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Three bedroom townhouse, Syokimau"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the three bedroom townhouse, syokimau (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Three bedroom townhouse, Syokimau"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom townhouse, syokimau (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom townhouse, Syokimau"
       }
     ],
     "amenities": [
@@ -841,36 +841,36 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Four bedroom house on a quarter acre, Ruiru"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Four bedroom house on a quarter acre, Ruiru"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Four bedroom house on a quarter acre, Ruiru"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Four bedroom house on a quarter acre, Ruiru"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Four bedroom house on a quarter acre, Ruiru"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Four bedroom house on a quarter acre, Ruiru"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Four bedroom house on a quarter acre, Ruiru"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the four bedroom house on a quarter acre, ruiru (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Four bedroom house on a quarter acre, Ruiru"
       }
     ],
     "amenities": [
@@ -916,36 +916,36 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Four bedroom townhouse in a gated community, Ngong Road"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Four bedroom townhouse in a gated community, Ngong Road"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Four bedroom townhouse in a gated community, Ngong Road"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Four bedroom townhouse in a gated community, Ngong Road"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Four bedroom townhouse in a gated community, Ngong Road"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Four bedroom townhouse in a gated community, Ngong Road"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Four bedroom townhouse in a gated community, Ngong Road"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the four bedroom townhouse in a gated community, ngong road (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Four bedroom townhouse in a gated community, Ngong Road"
       }
     ],
     "amenities": [
@@ -994,32 +994,32 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the four bedroom townhouse, ngong road (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Four bedroom townhouse, Ngong Road"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the four bedroom townhouse, ngong road (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Four bedroom townhouse, Ngong Road"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the four bedroom townhouse, ngong road (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Four bedroom townhouse, Ngong Road"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the four bedroom townhouse, ngong road (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Four bedroom townhouse, Ngong Road"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the four bedroom townhouse, ngong road (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Four bedroom townhouse, Ngong Road"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the four bedroom townhouse, ngong road (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Four bedroom townhouse, Ngong Road"
       },
       {
-        "src": "images/placeholders/pool.svg",
-        "alt": "Swimming pool of the four bedroom townhouse, ngong road (placeholder image)"
+        "src": "images/listings/pool-1.jpg",
+        "alt": "Swimming pool, Four bedroom townhouse, Ngong Road"
       }
     ],
     "amenities": [
@@ -1067,32 +1067,32 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the five bedroom house, lavington (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Five bedroom house, Lavington"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the five bedroom house, lavington (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Five bedroom house, Lavington"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the five bedroom house, lavington (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Five bedroom house, Lavington"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the five bedroom house, lavington (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Five bedroom house, Lavington"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the five bedroom house, lavington (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Five bedroom house, Lavington"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the five bedroom house, lavington (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Five bedroom house, Lavington"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the five bedroom house, lavington (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Five bedroom house, Lavington"
       }
     ],
     "amenities": [
@@ -1136,20 +1136,20 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the studio apartment, south c (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Studio apartment, South C"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the studio apartment, south c (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Studio apartment, South C"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the studio apartment, south c (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Studio apartment, South C"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the studio apartment, south c (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Studio apartment, South C"
       }
     ],
     "amenities": [
@@ -1193,28 +1193,28 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the two bedroom apartment, south b (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Two bedroom apartment, South B"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the two bedroom apartment, south b (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Two bedroom apartment, South B"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom apartment, south b (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom apartment, South B"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the two bedroom apartment, south b (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Two bedroom apartment, South B"
       },
       {
-        "src": "images/placeholders/balcony.svg",
-        "alt": "Balcony of the two bedroom apartment, south b (placeholder image)"
+        "src": "images/listings/balcony-2.jpg",
+        "alt": "Balcony, Two bedroom apartment, South B"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the two bedroom apartment, south b (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Two bedroom apartment, South B"
       }
     ],
     "amenities": [
@@ -1260,28 +1260,28 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Three bedroom house in a quiet cul-de-sac, Kiambu"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Three bedroom house in a quiet cul-de-sac, Kiambu"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Three bedroom house in a quiet cul-de-sac, Kiambu"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom house in a quiet cul-de-sac, Kiambu"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Three bedroom house in a quiet cul-de-sac, Kiambu"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the three bedroom house in a quiet cul-de-sac, kiambu (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Three bedroom house in a quiet cul-de-sac, Kiambu"
       }
     ],
     "amenities": [
@@ -1326,24 +1326,24 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the two bedroom apartment with a study, kilimani (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Two bedroom apartment with a study, Kilimani"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the two bedroom apartment with a study, kilimani (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Two bedroom apartment with a study, Kilimani"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom apartment with a study, kilimani (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom apartment with a study, Kilimani"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the two bedroom apartment with a study, kilimani (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Two bedroom apartment with a study, Kilimani"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the two bedroom apartment with a study, kilimani (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Two bedroom apartment with a study, Kilimani"
       }
     ],
     "amenities": [
@@ -1390,32 +1390,32 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the two bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Two bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/balcony.svg",
-        "alt": "Balcony of the two bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/balcony-2.jpg",
+        "alt": "Balcony, Two bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the two bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Two bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the two bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Two bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the two bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Two bedroom apartment, Kileleshwa"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the two bedroom apartment, kileleshwa (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Two bedroom apartment, Kileleshwa"
       }
     ],
     "amenities": [
@@ -1463,24 +1463,24 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the one bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, One bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the one bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, One bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the one bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, One bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the one bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, One bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the one bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, One bedroom apartment, Westlands"
       }
     ],
     "amenities": [
@@ -1528,24 +1528,24 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the two bedroom apartment, syokimau (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Two bedroom apartment, Syokimau"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the two bedroom apartment, syokimau (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Two bedroom apartment, Syokimau"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the two bedroom apartment, syokimau (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Two bedroom apartment, Syokimau"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the two bedroom apartment, syokimau (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Two bedroom apartment, Syokimau"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the two bedroom apartment, syokimau (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Two bedroom apartment, Syokimau"
       }
     ],
     "amenities": [
@@ -1592,24 +1592,24 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the one bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, One bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the one bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, One bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the one bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, One bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the one bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, One bedroom apartment, Ruaka"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the one bedroom apartment, ruaka (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, One bedroom apartment, Ruaka"
       }
     ],
     "amenities": [
@@ -1655,28 +1655,28 @@
     },
     "images": [
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the three bedroom townhouse, ruiru (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Three bedroom townhouse, Ruiru"
       },
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the three bedroom townhouse, ruiru (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Three bedroom townhouse, Ruiru"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the three bedroom townhouse, ruiru (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Three bedroom townhouse, Ruiru"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom townhouse, ruiru (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom townhouse, Ruiru"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the three bedroom townhouse, ruiru (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Three bedroom townhouse, Ruiru"
       },
       {
-        "src": "images/placeholders/garden.svg",
-        "alt": "Garden of the three bedroom townhouse, ruiru (placeholder image)"
+        "src": "images/listings/garden-1.jpg",
+        "alt": "Garden, Three bedroom townhouse, Ruiru"
       }
     ],
     "amenities": [
@@ -1723,32 +1723,32 @@
     },
     "images": [
       {
-        "src": "images/placeholders/living.svg",
-        "alt": "Living area of the three bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/living-1.jpg",
+        "alt": "Living area, Three bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/kitchen.svg",
-        "alt": "Kitchen of the three bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/kitchen-1.jpg",
+        "alt": "Kitchen, Three bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/bedroom.svg",
-        "alt": "Main bedroom of the three bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/bedroom-1.jpg",
+        "alt": "Bedroom, Three bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/bathroom.svg",
-        "alt": "Bathroom of the three bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/bathroom-1.jpg",
+        "alt": "Bathroom, Three bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/balcony.svg",
-        "alt": "Balcony of the three bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/balcony-2.jpg",
+        "alt": "Balcony, Three bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/view.svg",
-        "alt": "View from the property of the three bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/view-1.jpg",
+        "alt": "View, Three bedroom apartment, Westlands"
       },
       {
-        "src": "images/placeholders/exterior.svg",
-        "alt": "Building exterior of the three bedroom apartment, westlands (placeholder image)"
+        "src": "images/listings/exterior-1.jpg",
+        "alt": "Building exterior, Three bedroom apartment, Westlands"
       }
     ],
     "amenities": [

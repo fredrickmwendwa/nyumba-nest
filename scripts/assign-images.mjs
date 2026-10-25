@@ -19,10 +19,13 @@ properties.forEach((p, pi) => {
     const kind = KINDS.find((k) => new RegExp(`(^|/)${k}[-.]`).test(img.src))
     if (!kind) return
     const pool = byKind[kind]
+    const suffix = ' (placeholder image)'
     if (pool.length === 0) {
       img.src = `images/placeholders/${kind}.svg`
+      if (!img.alt.endsWith(suffix)) img.alt += suffix
       return
     }
+    if (img.alt.endsWith(suffix)) img.alt = img.alt.slice(0, -suffix.length)
     // Spread photos so neighbouring listings do not look identical.
     img.src = `images/listings/${pool[(pi * 3 + ii) % pool.length]}`
     changed += 1

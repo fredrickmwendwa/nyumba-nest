@@ -37,6 +37,8 @@ export default function PropertyDetail() {
   const rent = p.transaction === 'rent'
   const { amount, suffix } = priceParts(p)
   const similar = similarTo(properties, p)
+  // Several listings can share one photo per room type, so never show the same photo twice in one gallery.
+  const photos = p.images.filter((im, i, all) => all.findIndex((x) => x.src === im.src) === i)
   const listPath = `/properties?type=${rent ? 'rent' : 'buy'}`
 
   const facts = [
@@ -53,7 +55,7 @@ export default function PropertyDetail() {
       <Breadcrumbs items={[{ label: 'Home', to: '/' }, { label: rent ? 'Homes to rent' : 'Homes for sale', to: listPath }, { label: p.location.area, to: `${listPath}&q=${encodeURIComponent(p.location.area)}` }, { label: p.title }]} />
       <div className="detail__grid">
         <div className="detail__main">
-          <Gallery images={p.images} />
+          <Gallery images={photos} />
 
           <header className="detail__head">
             <div className="detail__badges">
