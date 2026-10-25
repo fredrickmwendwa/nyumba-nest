@@ -46,10 +46,10 @@
   --motion-fast: 120ms; --motion-base: 200ms; --ease: cubic-bezier(.2, 0, 0, 1);
 
   /* Layout */
-  --container: 1200px; --gutter: 16px; --control-height: 48px; --target-min: 44px;
+  --header-h: 64px; --container: 1200px; --gutter: 16px; --control-height: 48px; --target-min: 44px;
 }
 @media (min-width: 768px)  { :root { --gutter: 24px; } }
-@media (min-width: 1024px) { :root { --gutter: 32px; } }
+@media (min-width: 1024px) { :root { --gutter: 32px; --header-h: 80px; } }
 
 body { font: 400 16px/24px var(--font-body); color: var(--color-text); background: var(--color-surface); }
 

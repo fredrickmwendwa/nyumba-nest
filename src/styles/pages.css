@@ -2,20 +2,20 @@
 main { animation: page-in 240ms var(--ease); }
 @keyframes page-in { from { opacity: 0; } }
 
-/* Home: hero */
-.hero { background: var(--color-brand-deep); color: var(--color-text-on-dark); padding-top: 32px; }
-.hero__grid { display: grid; gap: 24px; grid-template-areas: "text" "search" "art"; }
+/* Home: hero (fills the first screen, so the green band always reaches the bottom of the viewport) */
+.hero { background: var(--color-brand-deep); color: var(--color-text-on-dark); padding-top: 32px; min-height: min(calc(100dvh - var(--header-h)), 1100px); display: flex; flex-direction: column; }
+.hero__grid { flex: 1; width: 100%; display: grid; gap: 24px; grid-template-areas: "text" "search" "art"; grid-template-rows: auto auto 1fr; }
 .hero__text { grid-area: text; display: grid; gap: 16px; align-content: start; }
 .hero__lead { color: var(--color-text-on-dark-secondary); max-width: 520px; }
 .hero__search { grid-area: search; }
-.hero__art { grid-area: art; position: relative; justify-self: center; width: 300px; height: 210px; overflow: hidden; }
+.hero__art { grid-area: art; position: relative; justify-self: center; align-self: stretch; width: 300px; min-height: 210px; overflow: hidden; }
 .search { background: var(--color-surface-raised); color: var(--color-text); border-radius: var(--radius-md); padding: 16px; display: grid; gap: 14px; box-shadow: 0 8px 24px rgba(0, 0, 0, .25); }
 .search .segmented { justify-self: start; }
 .search__fields { display: grid; gap: 12px; }
 .search__foot { display: flex; flex-direction: column; gap: 12px; }
 .search__popular { font-size: 14px; color: var(--color-text-secondary); }
 .arch { position: relative; width: 100%; aspect-ratio: 420 / 520; }
-.arch__frame { position: absolute; top: 3.8%; left: 4.8%; right: 4.8%; bottom: 0; border: 6px solid var(--color-text-on-dark); border-bottom: 0; border-radius: 50% 50% 0 0 / 40% 40% 0 0; animation: frame-in 700ms var(--ease) both; }
+.arch__frame { position: absolute; top: 3.8%; left: 4.8%; right: 4.8%; bottom: 0; border: 6px solid var(--color-text-on-dark); border-bottom: 0; border-radius: 50% 50% 0 0 / 40% 40%  0 0; animation: frame-in 700ms var(--ease) both; }
 .arch__photo { position: absolute; top: 11.2%; left: 13.3%; right: 13.3%; bottom: 0; border-radius: 50% 50% 0 0 / 33% 33% 0 0; overflow: hidden; background: var(--color-surface-tint); animation: arch-in 900ms var(--ease) 150ms both; }
 .arch__photo img { width: 100%; height: 100%; object-fit: cover; }
 @keyframes frame-in { from { opacity: 0; transform: translateY(24px); } }
@@ -23,20 +23,22 @@ main { animation: page-in 240ms var(--ease); }
 .arch__card { display: none; position: absolute; left: 0; bottom: 48px; max-width: 260px; background: var(--color-surface-raised); color: var(--color-text); border-radius: var(--radius-md); padding: 12px 16px; box-shadow: 0 8px 24px rgba(0, 0, 0, .25); font-size: 14px; line-height: 20px; flex-direction: column; }
 .arch__card strong { font-size: 16px; }
 .arch__card a { font-weight: 600; margin-top: 4px; }
+@media (max-width: 767px) { .hero__art .arch { position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 300px; } }
 @media (min-width: 480px) { .search__foot { flex-direction: row; align-items: center; justify-content: space-between; } .search { padding: 20px; } }
 @media (min-width: 768px) {
   .hero { padding-top: 40px; }
-  .hero__grid { grid-template-columns: 1fr 240px; grid-template-areas: "text art" "search search"; gap: 24px; }
+  .hero__grid { grid-template-columns: 1fr 240px; grid-template-areas: "text art" "search search"; grid-template-rows: 1fr auto; gap: 24px; }
   .hero__text { align-self: center; padding-bottom: 8px; }
-  .hero__art { width: 240px; height: auto; overflow: visible; align-self: end; justify-self: end; }
+  .hero__art { width: 240px; min-height: 0; overflow: visible; align-self: end; justify-self: end; }
   .hero__search { padding-bottom: 32px; }
   .search__fields { grid-template-columns: 1.4fr 1fr 1fr; }
 }
 @media (min-width: 1024px) {
-  .hero__grid { grid-template-columns: 7fr 5fr; grid-template-areas: "text art" "search art"; column-gap: 48px; row-gap: 28px; }
-  .hero__text { align-self: end; gap: 20px; padding: 24px 0 0; }
-  .hero__search { align-self: start; padding-bottom: 64px; }
-  .hero__art { width: 100%; max-width: 460px; justify-self: end; grid-row: 1 / 3; }
+  .hero { padding-top: 0; }
+  .hero__grid { position: relative; grid-template-columns: 7fr 5fr; grid-template-areas: "text ." "search ."; grid-template-rows: auto auto; align-content: center; column-gap: 48px; row-gap: 28px; padding-block: 48px 64px; }
+  .hero__text { align-self: end; gap: 20px; padding: 0; }
+  .hero__search { align-self: start; padding-bottom: 0; }
+  .hero__art { position: absolute; right: var(--gutter); bottom: 0; width: min(460px, 40%); overflow: visible; align-self: auto; justify-self: auto; }
   .arch__card { display: flex; }
 }
 
