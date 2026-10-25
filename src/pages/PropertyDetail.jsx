@@ -46,7 +46,7 @@ export default function PropertyDetail() {
   ]
   const terms = rent
     ? [['Deposit', p.deposit ? formatKsh(p.deposit) : 'Not stated'], ['Service charge', p.serviceCharge ? `${formatKsh(p.serviceCharge)} a month` : 'Not stated'], ['Billing', 'Monthly']]
-    : [['Asking price', formatKsh(p.price.amount)], ['Service charge', p.serviceCharge ? `${formatKsh(p.serviceCharge)} a month` : 'Not stated'], ['Type', p.propertyType]]
+    : [['Asking price', formatKsh(p.price.amount)], ['Service charge', p.serviceCharge ? `${formatKsh(p.serviceCharge)} a month` : 'Not stated'], ['Type', p.propertyType.charAt(0).toUpperCase() + p.propertyType.slice(1)]]
 
   return (
     <div className="container detail">

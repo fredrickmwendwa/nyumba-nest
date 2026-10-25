@@ -60,7 +60,9 @@
 @media (min-width: 600px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (min-width: 1024px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; } .section { padding-top: 96px; } }
 .breadcrumbs { padding: 16px 0 0; font-size: 14px; color: var(--color-text-muted); }
-.breadcrumbs ol { display: flex; flex-wrap: wrap; gap: 4px 8px; }
+.breadcrumbs ol { display: flex; flex-wrap: wrap; align-items: center; gap: 0 8px; }
+.breadcrumbs li { display: flex; align-items: center; }
 .breadcrumbs li + li::before { content: "/"; margin-right: 8px; color: var(--color-border-control); }
-.breadcrumbs a { color: var(--color-text-secondary); }
+.breadcrumbs a { color: var(--color-text-secondary); display: inline-flex; align-items: center; min-height: 28px; }
+@media (max-width: 767px) { .breadcrumbs { padding-top: 4px; } .breadcrumbs li:last-child { display: none; } .breadcrumbs a { min-height: 44px; } .site-footer a { min-height: 44px; } .logo { padding-inline: 6px; margin-left: -6px; } }
 .breadcrumbs [aria-current] { color: var(--color-text); }

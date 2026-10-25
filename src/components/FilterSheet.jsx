@@ -5,7 +5,7 @@ import Dialog from './Dialog.jsx'
 import Icon from './Icon.jsx'
 import { Button, Segmented } from './ui.jsx'
 import { TextField } from './Field.jsx'
-import { AmenityChecks, BED_OPTIONS, PriceFields, priceChange } from './filterControls.jsx'
+import { AmenityChecks, BED_OPTIONS, PriceFields } from './filterControls.jsx'
 
 const TYPES = [{ id: 'rent', label: 'Rent' }, { id: 'buy', label: 'Buy' }]
 
@@ -58,4 +58,3 @@ export default function FilterSheet({ open, onClose, f, properties, onApply }) {
   )
 }
 
-export { priceChange }

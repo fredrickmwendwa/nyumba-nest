@@ -103,10 +103,10 @@ export default function Home() {
         <div className="split__lead">
           <h2 id="how-title" className="text-page">Four steps, nothing hidden</h2>
           <ol className="steps">
-            <li><strong>Search</strong> by area, budget and bedrooms.</li>
-            <li><strong>Save</strong> homes to a shortlist on this device.</li>
-            <li><strong>Check the numbers</strong> with the rent or mortgage estimate.</li>
-            <li><strong>Request a viewing.</strong> We prepare a WhatsApp message or email. Nothing is booked until the agency replies.</li>
+            <li><span><strong>Search</strong> by area, budget and bedrooms.</span></li>
+            <li><span><strong>Save</strong> homes to a shortlist on this device.</span></li>
+            <li><span><strong>Check the numbers</strong> with the rent or mortgage estimate.</span></li>
+            <li><span><strong>Request a viewing.</strong> We prepare a WhatsApp message or email. Nothing is booked until the agency replies.</span></li>
           </ol>
           <Button to="/calculator" variant="outline" className="split__cta">Open the calculator</Button>
         </div>
