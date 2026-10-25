@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { PROPERTY_TYPES } from '../config.js'
 import { matches } from '../lib/filters.js'
 import Dialog from './Dialog.jsx'
@@ -25,7 +25,12 @@ function ChoiceGroup({ legend, options, value, onChange }) {
 // Bottom sheet on phones, side drawer on tablets. Changes apply when the person presses the button.
 export default function FilterSheet({ open, onClose, f, properties, onApply }) {
   const [draft, setDraft] = useState(f)
-  useEffect(() => { if (open) setDraft(f) }, [open]) // eslint-disable-line react-hooks/exhaustive-deps
+  // Start each opening from the current filters (adjusting state during render, not in an effect).
+  const [wasOpen, setWasOpen] = useState(open)
+  if (open !== wasOpen) {
+    setWasOpen(open)
+    if (open) setDraft(f)
+  }
 
   const set = (patch) => setDraft((d) => ({ ...d, ...patch }))
   const count = properties.filter((p) => matches(p, draft)).length

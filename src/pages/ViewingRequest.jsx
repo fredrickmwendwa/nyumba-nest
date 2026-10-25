@@ -27,10 +27,13 @@ async function copyText(text) {
     ta.style.opacity = '0'
     document.body.appendChild(ta)
     ta.select()
-    let ok = false
-    try { ok = document.execCommand('copy') } catch { ok = false }
-    document.body.removeChild(ta)
-    return ok
+    try {
+      return document.execCommand('copy')
+    } catch {
+      return false
+    } finally {
+      document.body.removeChild(ta)
+    }
   }
 }
 
@@ -76,7 +79,7 @@ export default function ViewingRequest() {
     if (route === 'whatsapp') {
       setStage(openWhatsApp(text) ? { name: 'ready', route, text } : { name: 'failed', route, text })
     } else {
-      window.location.href = mailtoUrl(viewingSubject(p), text)
+      window.location.assign(mailtoUrl(viewingSubject(p), text))
       setStage({ name: 'ready', route, text })
     }
   }
@@ -89,7 +92,7 @@ export default function ViewingRequest() {
       setStage({ name: 'form' })
       return
     }
-    window.location.href = mailtoUrl(viewingSubject(p), text)
+    window.location.assign(mailtoUrl(viewingSubject(p), text))
     setStage({ name: 'ready', route: 'email', text })
   }
 

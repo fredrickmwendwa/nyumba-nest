@@ -16,7 +16,11 @@ export const BED_OPTIONS = [
 // Search text with a short delay, so the URL and results update once the person pauses.
 export function SearchBox({ value, onCommit, label = 'Location or keyword' }) {
   const [text, setText] = useState(value)
-  useEffect(() => setText(value), [value])
+  const [seen, setSeen] = useState(value)
+  if (value !== seen) {
+    setSeen(value)
+    setText(value)
+  }
   useEffect(() => {
     if (text === value) return undefined
     const t = setTimeout(() => onCommit(text.trim()), 300)

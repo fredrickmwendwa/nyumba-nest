@@ -9,7 +9,6 @@ export function PropertiesProvider({ children }) {
 
   useEffect(() => {
     const controller = new AbortController()
-    setState({ status: 'loading', properties: [] })
     fetch(url('data/properties.json'), { signal: controller.signal })
       .then((res) => {
         if (!res.ok) throw new Error(`Request failed with status ${res.status}`)
@@ -25,7 +24,10 @@ export function PropertiesProvider({ children }) {
     return () => controller.abort()
   }, [attempt])
 
-  const retry = useCallback(() => setAttempt((n) => n + 1), [])
+  const retry = useCallback(() => {
+    setState({ status: 'loading', properties: [] })
+    setAttempt((n) => n + 1)
+  }, [])
   const value = useMemo(() => ({ ...state, retry }), [state, retry])
   return <PropertiesContext.Provider value={value}>{children}</PropertiesContext.Provider>
 }
