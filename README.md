@@ -35,7 +35,8 @@ A property discovery and viewing-enquiry frontend for a fictional Nairobi estate
 - Vite 8
 - Plain CSS with design tokens (CSS custom properties), no UI framework
 - `@fontsource-variable` for self-hosted Bricolage Grotesque and Instrument Sans
-- Vitest for unit tests of the filtering, calculator and contact logic
+- Vitest for unit tests of the filtering, calculator and contact logic, and ESLint with the React Hooks rules
+- GitHub Actions workflow that lints, tests and builds on every push
 
 There are no other runtime dependencies.
 
@@ -49,6 +50,8 @@ npm run dev        # start the dev server
 npm run build      # production build in dist/
 npm run preview    # serve the production build locally
 npm test           # run unit tests
+npm run lint       # run ESLint
+npm run images     # re-assign listing photos from public/images/listings/
 ```
 
 ### Configuration
@@ -66,7 +69,7 @@ export const agency = {
 ### Replacing placeholder photographs
 
 1. Download photos (for example from Unsplash) and export them as 4:3 JPEGs about 1600 by 1200 px, under 250 KB each.
-2. Save them in `public/images/listings/` named `<kind>-<number>.jpg`, for example `living-1.jpg`, `living-2.jpg`, `kitchen-1.jpg`. Kinds: living, kitchen, bedroom, bathroom, exterior, balcony, garden, view, pool.
+2. Save them in `public/images/listings/` named `<kind>-<number>.jpg`, for example `living-1.jpg`, `living-2.jpg`, `kitchen-1.jpg`. Kinds: living, kitchen, bedroom, bathroom, exterior, balcony, garden, view, pool. Add `-apt-` or `-house-` for outdoor kinds if you want them matched to the property type.
 3. Run `npm run images`. It points every listing image at your photos, spreading them so neighbouring listings differ. Kinds with no photos keep their placeholder.
 4. For the home page arch photo, change the `src` in `src/pages/Home.jsx` to one of your files, for example `images/listings/living-1.jpg`.
 5. Record each photographer in `docs/IMAGE_CREDITS.md`.
@@ -75,7 +78,11 @@ Cards use a 4:3 crop and the gallery a 3:2 crop. The wrapper owns the aspect rat
 
 ### Deployment
 
-The app uses client-side routing. Deploy to a host that serves `index.html` for unknown paths (Netlify, Vercel and Cloudflare Pages do; `public/_redirects` covers Netlify). On GitHub Pages, copy `index.html` to `404.html` after building and set `base` in `vite.config.js` to your repository name.
+**Vercel (recommended).** Push the repository to GitHub, then in Vercel choose "Add New Project", import the repository and accept the detected Vite settings (build command `npm run build`, output directory `dist`). `vercel.json` rewrites every path to `index.html`, so deep links such as `/properties/two-bedroom-apartment-kilimani` work after a refresh. No environment variables are needed.
+
+**Other hosts.** Any static host works if it serves `index.html` for unknown paths. On Netlify add a `public/_redirects` file containing `/*  /index.html  200`. On GitHub Pages copy `index.html` to `404.html` after building and set `base` in `vite.config.js` to your repository name.
+
+Before going live, replace the placeholder WhatsApp number and email in `src/config.js`, and consider adding an `og:image` (it needs an absolute URL, so it can only be set once you know your domain).
 
 ## Project structure
 
@@ -117,6 +124,6 @@ docs/screenshots/            README images
 ## Limitations and next steps
 
 - Photographs and listings are placeholders; no real inventory or backend exists.
-- Contrast ratios were calculated by hand and should be confirmed with an automated checker.
-- The layout was checked at 320, 390, 768, 1280 and 1440 px in a headless browser, but not on physical devices.
+- Accessibility was audited with axe-core (WCAG 2.2 AA rules) on every route and on the filter sheet, menu, photo viewer and form error states, with no remaining violations. Automated checks do not replace testing with a screen reader.
+- The layout was checked at 320, 390, 768, 1024, 1280, 1440 and 1920 px in a headless browser, but not on physical devices.
 - Future ideas: a real booking service, saved searches, side-by-side comparison, area pages and Swahili copy.
